@@ -1,5 +1,7 @@
 # NileWatch
 
+[![tests](https://github.com/roshdoly/nilewatch/actions/workflows/tests.yml/badge.svg)](https://github.com/roshdoly/nilewatch/actions/workflows/tests.yml)
+
 Drought and water monitoring for Egypt and the Nile Basin, built on open satellite and climate data.
 
 Egypt gets almost all of its water from the Nile, and the Nile's flow is set by rainfall over the Ethiopian Highlands and the Lake Victoria basin, thousands of kilometres upstream. NileWatch brings the signals that matter for that water supply into one place and keeps them current:
